@@ -21,11 +21,7 @@ This app helps you stay productive by using the Pomodoro Technique — work for 
 - Python 3
 - Tkinter (standard Python GUI library)
 
----
 
-## 📸 Screenshots
-
-*(You can add your own screenshots here by uploading images to the repo)*
 
 ---
 
